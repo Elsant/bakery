@@ -1,0 +1,54 @@
+<o c="Storage">
+  <a a="@products">
+    <o c="Product">
+      <s a="@code">VS5</s>
+      <s a="@name">Vegemite Scroll</s>
+      <a a="@packs">
+        <o c="Pack">
+          <i a="@quantity">3</i>
+          <i a="@price_in_cents">699</i>
+        </o>
+        <o c="Pack">
+          <i a="@quantity">5</i>
+          <i a="@price_in_cents">899</i>
+        </o>
+      </a>
+    </o>
+    <o c="Product">
+      <s a="@code">MB11</s>
+      <s a="@name">Blueberry Muffin</s>
+      <a a="@packs">
+        <o c="Pack">
+          <i a="@quantity">2</i>
+          <i a="@price_in_cents">995</i>
+        </o>
+        <o c="Pack">
+          <i a="@quantity">5</i>
+          <i a="@price_in_cents">1695</i>
+        </o>
+        <o c="Pack">
+          <i a="@quantity">8</i>
+          <i a="@price_in_cents">2495</i>
+        </o>
+      </a>
+    </o>
+    <o c="Product">
+      <s a="@code">CF</s>
+      <s a="@name">Croissant</s>
+      <a a="@packs">
+        <o c="Pack">
+          <i a="@quantity">3</i>
+          <i a="@price_in_cents">595</i>
+        </o>
+        <o c="Pack">
+          <i a="@quantity">5</i>
+          <i a="@price_in_cents">995</i>
+        </o>
+        <o c="Pack">
+          <i a="@quantity">9</i>
+          <i a="@price_in_cents">1699</i>
+        </o>
+      </a>
+    </o>
+  </a>
+</o>
