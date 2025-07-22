@@ -17,7 +17,7 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.9.0)
     rspec-support (3.9.0)
-    thor (1.0.1)
+    thor (1.4.0)
 
 PLATFORMS
   ruby
@@ -26,7 +26,7 @@ DEPENDENCIES
   byebug (~> 11.0, >= 11.0.1)
   ox (~> 2.12)
   rspec (~> 3.9)
-  thor (~> 1.0, >= 1.0.1)
+  thor (~> 1.4)
 
 RUBY VERSION
    ruby 2.6.5p114
